@@ -1,6 +1,6 @@
 # Software Installation Script
 
-This PowerShell script automates the download and installation of multiple software applications and checks the installation status. It also provides an English version of the messages displayed during the process.
+This PowerShell script automates the download and installation of multiple software applications and checks the installation status.
 
 ## Usage
 
