@@ -62,4 +62,4 @@ This PowerShell script automates the download and installation of multiple softw
 This script is provided under the [MIT License](LICENSE).
 ```
 
-Dengan penambahan ini, pengguna akan diberikan petunjuk tentang bagaimana membuka PowerShell terminal dengan hak administrator sebelum menjalankan skrip.
+With this addition, users will be provided with instructions on how to open a PowerShell terminal with administrator privileges before running the script.
